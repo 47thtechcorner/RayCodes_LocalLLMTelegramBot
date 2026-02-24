@@ -1,6 +1,6 @@
 # RayCodes : LocalLLM Telegram Bot
 
-Code for my Youtube Video : 
+Code for my Youtube Video : https://youtube.com/shorts/DehRH_eAlME?feature=share
 
 [STEP 1]
 Make a new .env file and paste your tokens like this: <br>
